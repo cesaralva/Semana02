@@ -1,0 +1,34 @@
+<ArrayList>
+  <item>
+    <idCatalogo>1</idCatalogo>
+    <descripcion>Tipo de Endidad Bancaria</descripcion>
+  </item>
+  <item>
+    <idCatalogo>2</idCatalogo>
+    <descripcion>Tipo de Moneda</descripcion>
+  </item>
+  <item>
+    <idCatalogo>3</idCatalogo>
+    <descripcion>Días de Préstamo</descripcion>
+  </item>
+  <item>
+    <idCatalogo>4</idCatalogo>
+    <descripcion>Estado Solictud de Préstamo</descripcion>
+  </item>
+  <item>
+    <idCatalogo>10</idCatalogo>
+    <descripcion>Jorge Jacinto GRUPO X</descripcion>
+  </item>
+  <item>
+    <idCatalogo>11</idCatalogo>
+    <descripcion>Jorge Jacinto GRUPO X</descripcion>
+  </item>
+  <item>
+    <idCatalogo>13</idCatalogo>
+    <descripcion>Jorge Jacinto GRUPO X</descripcion>
+  </item>
+  <item>
+    <idCatalogo>14</idCatalogo>
+    <descripcion>Jorge Jacinto GRUPO X</descripcion>
+  </item>
+</ArrayList>

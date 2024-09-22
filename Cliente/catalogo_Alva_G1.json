@@ -1,0 +1,34 @@
+[
+  {
+    "idCatalogo": 1,
+    "descripcion": "Tipo de Endidad Bancaria"
+  },
+  {
+    "idCatalogo": 2,
+    "descripcion": "Tipo de Moneda"
+  },
+  {
+    "idCatalogo": 3,
+    "descripcion": "Días de Préstamo"
+  },
+  {
+    "idCatalogo": 4,
+    "descripcion": "Estado Solictud de Préstamo"
+  },
+  {
+    "idCatalogo": 10,
+    "descripcion": "Jorge Jacinto GRUPO X"
+  },
+  {
+    "idCatalogo": 11,
+    "descripcion": "Jorge Jacinto GRUPO X"
+  },
+  {
+    "idCatalogo": 13,
+    "descripcion": "Jorge Jacinto GRUPO X"
+  },
+  {
+    "idCatalogo": 14,
+    "descripcion": "Jorge Jacinto GRUPO X"
+  }
+]
